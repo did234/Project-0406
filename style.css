@@ -1,0 +1,23 @@
+body{
+    background: white;
+}
+.logo{
+    position:absolute;
+    top: 5px;
+    left: 15px;
+}
+.header{
+    position:relative;
+}
+h3{
+    text-align: center;
+}
+.imgs {
+    float: left;
+}
+.text {
+    float: right;
+}
+.content {
+    display: flex;
+}
